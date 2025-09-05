@@ -20,9 +20,9 @@ Cybersecurity threats are increasing day by day, with attackers frequently targe
 
 ## ⚙️ Tools Used
 
-- Kali Linux  
-- Cowrie SSH Honeypot  
-- Python (for email & geo-location)  
+- Kali Linux - https://www.kali.org/
+- Cowrie SSH Honeypot - https://github.com/ispwd/cowrie
+- Python (for email & geo-location) - https://github.com/geoip0/geoip0
 - GeoLite2 Database  
 - Gmail SMTP  
 
