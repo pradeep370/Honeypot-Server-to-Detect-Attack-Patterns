@@ -45,3 +45,9 @@ Cybersecurity threats are increasing day by day, with attackers frequently targe
 ## ✅ Conclusion
 
 The Cowrie SSH Honeypot project successfully demonstrated how attackers attempt brute-force logins and execute malicious commands. By integrating GeoIP2, the project tracked attacker locations and provided valuable insights into global attack sources. The addition of email alerts ensured real-time monitoring of malicious activities. Overall, this project highlights the importance of honeypots in understanding attacker behaviour and strengthening cybersecurity defence strategies.
+
+##  📌 Full Video Link
+
+  I also upload a full video about this project. you can check it here 👇
+
+   https://youtu.be/8NVnPCpaI7w?si=zzNteLxv7gKdMCmj
